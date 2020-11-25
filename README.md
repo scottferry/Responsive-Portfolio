@@ -19,4 +19,8 @@ More details about the assessment criteria are listed below.
 <img width="1280" alt="Screen Shot 2020-11-25 at 9 23 52 pm" src="https://user-images.githubusercontent.com/73803101/100233486-c4cdf880-2f64-11eb-8733-bbdd9315a08f.png">
 
 ## Deployed links 
-
+<ul>
+  <li>https://scottferry.github.io/Responsive-Portfolio/</li>
+  <li>https://scottferry.github.io/Responsive-Portfolio/portfolio.html</li>
+  <li>https://scottferry.github.io/Responsive-Portfolio/contact.html</li>
+</ul>
