@@ -1,0 +1,53 @@
+/*Nav Bar Formatting*/
+
+.nav {
+    padding: 30px; 
+  
+  }
+  #Nav-Bar-Main {
+    font-weight: bolder; 
+    font-style: italic; 
+    font-size: 30px;
+    font-family: PT Serif;
+    font-variant: small-caps;
+    color: #ff7c52;
+  }
+  
+  /*Nav Bar Portfolio, About and Contact Text Formatting*/
+  
+  #NavP {
+    background-color: #ffbe47;
+    font-size: 16px; 
+    font-family: PT Serif;
+  
+  }
+  
+  #NavA {
+    background-color: #ffbe47;
+    font-size: 16px; 
+    font-family: PT Serif;
+  
+  }
+  
+  #NavC {
+    background-color: #ffbe47;
+    font-size: 16px; 
+    font-family: PT Serif;
+  
+  }
+
+
+.textmat{
+    font-family: PT Serif;
+    font-size: 12px; 
+    font-variant: initial; 
+    padding-top: 10px;
+    
+  
+  }
+  
+  .insta{
+    color:  #ffbe47; 
+    font-style: italic;
+  }
+  
